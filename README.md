@@ -1,1 +1,4 @@
 # Financial-Impact-of-Covid-19
+Due to the sudden outbreak of novel Coronavirus (covid-19), the world economy came to an abrupt standstill. The financial market almost collapsed during quarantine, workers were left jobless and many companies ran bankrupt. One of the methods for investigating the impact of covid-19 on financial market is by analyzing the stock 
+market. The daily fluctuations of stock prices help the investors to get an insight about the overall stock market. Hence, in order to study the impact of covid-19 on financial market, a comprehensive comparison of the stock market pre-covid-19, during covid-19 and post covid-19 for tech giants like Google, Apple, General Electric, IBM and Microsoft has been implemented. The dataset has been imported using the Yahoo Finance 
+API (Application Programming Interface).
